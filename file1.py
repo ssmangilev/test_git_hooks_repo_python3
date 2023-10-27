@@ -1,0 +1,16 @@
+import sys
+import rest_framework
+from dias.core import utils
+import os
+import json
+import django
+
+
+
+
+def sooooooooooooooooooooooooooooooooooooooooooooo_long_function_number1():
+    pass
+
+def sooooooooooooooooooooooooooooooooooooooooooooo_long_function_number2():
+    fooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo = 0.
+    return fooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo + 1
